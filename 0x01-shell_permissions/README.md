@@ -1,1 +1,1 @@
-Shell permissions
+Shells permission
